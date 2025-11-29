@@ -1,12 +1,14 @@
 body {
   background:#293ce3;
-  display:inline-block;
 }
 h1 {
   background:#dbca4b;
-  margin:10
+  margin:10;
+  display:inline-block;
 }
 p {
   background:#dbca4b;
-  font-size:30;
+  font-size:40;
+  font-weight
+  display:inline-block;
 }
