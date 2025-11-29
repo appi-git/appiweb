@@ -1,7 +1,10 @@
 body {
-  background:#4b7bdb;
+  background:#293ce3;
 }
 h1 {
   background:#dbca4b;
-  margin:0
+  margin:10
+}
+p {
+  background:#dbca4b;
 }
