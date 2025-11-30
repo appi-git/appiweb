@@ -4,4 +4,3 @@ let userName = prompt("Please enter your name:");
     } else {
         alert("User canceled the prompt.");
     }
-    document.write("hello " + userName)
